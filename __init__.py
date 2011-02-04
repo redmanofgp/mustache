@@ -1,2 +1,2 @@
-from pystache.template import Template, render
-from pystache.view import View
+from mustache.template import Template, render
+from mustache.view import View
